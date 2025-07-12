@@ -15,18 +15,18 @@ A simple and functional email client built with **React**. This app features an 
 ## 📁 Project Structure
 
 
-├── public/
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── ComposeEmail.js
-│   │   ├── Inbox.js
-│   │   ├── Sidebar.js
-│   │   └── SearchBar.js
-│   ├── App.js
-│   ├── index.js
-│   └── styles/
-└── README.md
+├── public/<br/>
+│   └── <br/>
+├── src/<br/>
+│   ├── components/<br/>
+│   │   ├── ComposeEmail.js<br/>
+│   │   ├── Inbox.js<br/>
+│   │   ├── Sidebar.js<br/>
+│   │   └── SearchBar.js<br/>
+│   ├── App.js<br/>
+│   ├── index.js<br/>
+│   └── styles/<br/>
+└── README.md<br/>
 - 🚀 Getting Started
 - Prerequisites
 - Make sure you have the following installed:
