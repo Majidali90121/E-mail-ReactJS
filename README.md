@@ -14,7 +14,7 @@ A simple and functional email client built with **React**. This app features an 
 
 ## 📁 Project Structure
 
-```bash
+
 ├── public/
 │   └── ...
 ├── src/
@@ -30,14 +30,14 @@ A simple and functional email client built with **React**. This app features an 
 - 🚀 Getting Started
 - Prerequisites
 - Make sure you have the following installed:
-
+```bash
 - Node.js >= 14.x
 
 - npm or yarn
 
 - Installation
 
-```
+
 # Clone the repository
 git clone https://github.com/your-username/react-email-app.git
 cd react-email-app
@@ -50,5 +50,5 @@ yarn install
 npm start
 # or
 yarn start
-     ```
+```
 - Author Majid ali
