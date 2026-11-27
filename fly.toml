@@ -1,11 +1,16 @@
-app = 'e-mail.js'
+# fly.toml app configuration file generated for e-mail-reactjs on 2026-11-27T15:53:39Z
+#
+# See https://docs.fly.io/reference/configuration for information about how to use this file.
+#
+
+app = 'e-mail-reactjs'
 primary_region = 'iad'
 
 [build]
   dockerfile = 'Dockerfile'
 
 [http_service]
-  internal_port = 80
+  internal_port = 8080
   force_https = true
   auto_stop_machines = 'stop'
   auto_start_machines = true
