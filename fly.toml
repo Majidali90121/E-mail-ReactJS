@@ -1,4 +1,4 @@
-app = 'e-mail.js'
+app = 'e-mail-reacy.js'
 primary_region = 'iad'
 
 [build]
